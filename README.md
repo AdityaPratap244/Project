@@ -13,9 +13,6 @@ py.css – Styling
 py.js – Logic
 netlify.toml – For Netlify deployment
 
-Live Demo
-Click to open: atmmachinexadi.netlify.app
-
 Built with guidance and tools from:
 Netlify, localStorage, and frontend tech.
 
