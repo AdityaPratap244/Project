@@ -16,3 +16,5 @@ netlify.toml – For Netlify deployment
 Built with guidance and tools from:
 Netlify, localStorage, and frontend tech.
 
+Live Demo
+Click to open: atmmachinexadi.netlify.app
